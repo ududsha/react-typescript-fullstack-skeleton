@@ -1,0 +1,8 @@
+{
+	"HOST": "127.0.0.1",
+	"DATABASE": "my_database",
+	"USER": "kataras",
+	"PASSWORD": "pass",
+	"PORT": 3306,
+	"ARGUMENTS": "debug=false&charset=utf8&multipleStatements=false"
+}

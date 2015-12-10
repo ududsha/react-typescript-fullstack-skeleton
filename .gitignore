@@ -1,0 +1,10 @@
+node_modules
+build
+.git
+.settings
+.vs/*
+.vscode/*
+/bin/*.dll
+zip_releases
+.npm
+.idea

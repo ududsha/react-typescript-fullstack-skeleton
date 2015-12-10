@@ -1,0 +1,4 @@
+{
+	"PORT": 8080,
+	"COOKIE_SECRET" : "react-typescript-fullstack-skeleton secret key"
+}
