@@ -45,8 +45,5 @@
   ],
   "atom": {
     "rewriteTsconfig": false
-  },
-  "awesomeTypescriptLoaderOptions": {
-    "doTypeCheck": false
   }
 }
